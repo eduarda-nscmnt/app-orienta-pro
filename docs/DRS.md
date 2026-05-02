@@ -17,29 +17,51 @@ O sistema tem como objetivo auxiliar na escolha da carreira, oferecendo testes v
 
 ### 1.3 Público Alvo
 
+.Estudantes do ensino médio;
+.Jovens indecisos. 
 ---
 
 ## 2. Escopo do Sistema
 
 ### 2.1 Escopo Incluído
 
+.Cadastro e Login de usuários;
+.Testes vocacionais;
+.Visualização de profissões;
+.Informações sobre cursos e mercado. 
+
 ### 2.1 Escopo Incluído
+
+.Consultoria com profissionais;
+.Emissão de certificados. 
 
 ---
 
 ## 3. Requisitos Funcionaís
 
-### RF00 - 
+### RF00 - Cadastro de usuário (O sistema deve pedir nome, e-mail e senha)
 
-### RF01 - 
+### RF01 - Login (O sistema deve pedir e-mail e senha)
+
+### RF02 - Teste vocacional (O sistema deve disponibilizar perguntas sobre interesses e habilidades)
+
+### RF03 - Resultado do teste (O sistema deve sugerir profissões com base nas respostas)
+
+### RF04 - Listagem de profissões (O sistema deve exibir descrição, salário médio e área)
+
+### RF05 - Busca ( O usuário deve pesquisar por nome ou área)
 
 ---
 
 ## 4. Requisitos Não Funcionais
 
-### RNF00 -
+### RNF00 - Usabilidade (Interface simples e fácil de usar)
 
-### RNF01 -
+### RNF01 - Desempenho (Resposta em até 5 segundos)
+
+### RNF02 - Segurança (Proteção dos dados do usuário)
+
+### RNF03 - Compatibilidade (Funcionamento em Android)
 
 ## 5. Arquitetura Técnica 
 
@@ -47,8 +69,13 @@ O sistema tem como objetivo auxiliar na escolha da carreira, oferecendo testes v
 
 #### 5.1.1 Stack Backend 
 
+.JavaScript 
+.Node.js 
+.MySQL 
 
 #### 5.1.2 Stack Frontend
+
+.HTML, Css e JavaScript 
 
 #### 5.1.7 Banco de Dados
 
