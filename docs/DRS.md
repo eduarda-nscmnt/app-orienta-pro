@@ -2,10 +2,18 @@
 
 ## 1. Introdução
 
+O documento apresenta os requisitos de orientação profissional voltado para os estudantes de ensino médio.
+
 ### 1.1 Visao Geral
 
+O sistema tem como objetivo auxiliar na escolha da carreira, oferecendo testes vocacionais e informações sobre profissões, cursos e mercado de trabalho.
 
 ### 1.2 Objetivos do Sistema
+
+.Ajudar estudantes a escolherem uma profissão;
+.Fornecer testes vocacionais;
+.Apresentar informações sobre o curso e área;
+.Mostrar média salarial e mercado de trabalho.
 
 ### 1.3 Público Alvo
 
