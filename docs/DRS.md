@@ -69,4 +69,24 @@ O sistema tem como objetivo auxiliar na escolha da carreira, oferecendo testes v
 
 #### 5.1.7 Banco de Dados
 
+.MySQL (Sistema de gerenciamento de banco de dados relacional responsável por armazenar informações dos usuários e testes vocacionais);
+Tabelas para usuários,testes,resultados e profissões; Relacionamento entre dados para garantir integridade das informações.
+
 ## 6. Modelo de Dados
+
+.O sistema será composto pelas seguintes entidades:
+
+Usuário
+.Id_usuario (chave primária); Nome, Email; Senha.
+
+Teste Vocacional
+.Id_teste (chave primária); Id_usuario (chave estrangeira); Respostas; Resultado.
+
+Profissão
+.Id_profissao (chave primária; Nome; Escrição; Área; Salario_medio.
+
+Curso
+.Id_curso (chave primária); Nome; Descrição; Duração; Área.
+
+Relacionamentos
+.Um usuário pode realizar vários testes;Um teste gera sugestões de profissões;Uma profissão pode estar ligada a um ou mais cursos.
