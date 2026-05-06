@@ -85,7 +85,7 @@ Teste Vocacional
 .Id_teste (chave primária); Id_usuario (chave estrangeira); Respostas; Resultado.
 
 Profissão
-.Id_profissao (chave primária; Nome; Escrição; Área; Salario_medio.
+.Id_profissao (chave primária); Nome; Escrição; Área; Salario_medio.
 
 Curso
 .Id_curso (chave primária); Nome; Descrição; Duração; Área.
