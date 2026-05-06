@@ -62,6 +62,7 @@ O sistema tem como objetivo auxiliar na escolha da carreira, oferecendo testes v
 #### 5.1.1 Stack Backend 
 
 .JavaScript;Node.js;MySQL 
+.Framework: Django
 
 #### 5.1.2 Stack Frontend
 
